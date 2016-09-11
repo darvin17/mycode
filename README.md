@@ -1,0 +1,2 @@
+# mycode
+khusus keperluas pribadi
